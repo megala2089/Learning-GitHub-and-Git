@@ -1,0 +1,5 @@
+What is Git?
+What is GitHub?
+What is a commit?
+What is staging?
+What is the difference between push and pull?
